@@ -22,8 +22,8 @@ Before running the application, make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone
-   cd PEDALSTART
+   git clone https://github.com/SubasishMula2001/Task-manager.git
+   cd Task-manager
    ```
 
 2. **Install dependencies:**
