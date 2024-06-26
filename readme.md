@@ -84,10 +84,9 @@ The server will start running on http://localhost:3000.
 
 # Screenshots
 
-![Task List Screenshot](link_to_task_list_screenshot)
-![Task Detail Screenshot](link_to_task_detail_screenshot)
-![Task Form Screenshot](link_to_task_form_screenshot)
+![Task List Screenshot] ![Screenshot (2456)](https://github.com/SubasishMula2001/Task-manager/assets/74977100/52984df5-5dba-4f31-9da6-1cfde488181c)
 
-# Acknowledgments
+![Task Detail Screenshot] ![Screenshot (2457)](https://github.com/SubasishMula2001/Task-manager/assets/74977100/3ea1dc55-6554-4fcf-ab42-db361f0e8992)
+
 
 Developed By [Subasish Mula](https://subasishmula.me/).
