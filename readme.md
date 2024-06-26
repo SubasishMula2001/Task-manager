@@ -22,27 +22,31 @@ Before running the application, make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SubasishMula2001/Task-manager.git
+   git clone https://github.com/SubasishMula2001/Task-manager
    cd Task-manager
    ```
 
 2. **Install dependencies:**
 
    ```bash
+   install dependencies in both file (frontend and backend)
    npm install
    ```
 
 3. **Set up MongoDB:**
 
-- Make sure MongoDB is running on `localhost:27017` or update the connection string in `app.js`.
+- Make sure to add mongdb atlas url and database name .
 
 4. **Start the server:**
 
    ```bash
-   npm start
+   npm start (in both file)
+   like :
+   in frontend folder - npm start
+   and in backend folder - npm start
    ```
 
-The server will start running on http://localhost:3001.
+The server will start running on http://localhost:3000.
 
 # API Endpoints
 
@@ -80,12 +84,10 @@ The server will start running on http://localhost:3001.
 
 # Screenshots
 
-![Task List Screenshot]
-(![Screenshot (2456)](https://github.com/SubasishMula2001/Task-manager/assets/74977100/2a0e456b-fa53-4be5-a4b2-4264813f9ffe)
-)
----------------------------------------------------------------------------------------------------------------------------------------------------
-![Task Detail Screenshot](![Screenshot (2457)](https://github.com/SubasishMula2001/Task-manager/assets/74977100/2eeea9e7-aa8a-481a-b67c-78f1868bdbe6)
-)
+![Task List Screenshot](link_to_task_list_screenshot)
+![Task Detail Screenshot](link_to_task_detail_screenshot)
+![Task Form Screenshot](link_to_task_form_screenshot)
 
+# Acknowledgments
 
 Developed By [Subasish Mula](https://subasishmula.me/).
