@@ -82,9 +82,9 @@ The server will start running on http://localhost:3001.
 
 ![Task List Screenshot](![Screenshot (2456)](https://github.com/SubasishMula2001/Task-manager/assets/74977100/2a0e456b-fa53-4be5-a4b2-4264813f9ffe)
 )
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ![Task Detail Screenshot](![Screenshot (2457)](https://github.com/SubasishMula2001/Task-manager/assets/74977100/2eeea9e7-aa8a-481a-b67c-78f1868bdbe6)
 )
 
-# Acknowledgments
 
 Developed By [Subasish Mula](https://subasishmula.me/).
